@@ -86,7 +86,7 @@ It has a secure channel established to the cluster network.
 It could work on either a gRPC or HTTP Connect mechanism.
 If the former it would exposes a gRPC interface to KAS to provide connectivity service.
 If the latter it would use standard HTTP Connect.
-Formerly known the the Network Proxy Server.
+Formerly known as the Network Proxy Server.
 - **Konnectivity Agent** A proxy agent which runs in the node network for
   establishing the tunnel.
 Formerly known as the Network Proxy Agent.
